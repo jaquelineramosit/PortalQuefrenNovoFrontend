@@ -1,0 +1,14 @@
+body {
+    background: var(--blue-500);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logonContainer {
+
+    background: var(--white);
+    width: 60rem;
+    height: 26rem;
+
+    border: solid 1px blue;
+}

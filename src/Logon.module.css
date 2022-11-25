@@ -11,4 +11,8 @@ body {
     height: 22rem;
 
     border: solid 1px blue;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }

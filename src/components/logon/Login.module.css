@@ -1,0 +1,53 @@
+.cardLogin {
+    width: 24rem;
+    height: 22rem;
+    margin: 0 1rem;
+}
+
+.cardLogin header {
+    display: flex;
+    justify-content: space-between;
+
+    margin-top: 2rem;
+}
+
+.cardLogin h1 {
+    line-height: 3.375rem;
+}
+
+.cardLogin form label {
+    margin-top: .75rem;
+}
+
+.cardLogin form label:first-child {
+    margin-top: .5rem;
+}
+
+.cardLogin form [type=text], input[type=password] {
+    margin-top: .25rem;
+}
+
+.linksExternos span {
+    font-size: .75rem;
+    font-weight: 300;
+}
+
+
+
+
+.cardLogin input[type=text], input[type=password] {
+    width: 100%;
+}
+
+.linksExternos {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.75rem;
+}
+
+
+/* 
+.cardLogin form {
+    display: flex;
+    justify-content: center;
+} */

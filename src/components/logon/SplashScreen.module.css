@@ -1,0 +1,12 @@
+.cardSplash {
+    display: flex;
+    align-items: center;
+    width: 24rem;
+    height: 22rem;
+    margin: 0 1rem;
+}
+
+.cardSplash img {
+    width: 24rem;
+    height: 13.62rem;
+}
